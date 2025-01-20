@@ -5,8 +5,9 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        dispaly: ['Poppins']
-      }
+        dispaly: ['Poppins'],
+        body: ['Cinzel'],
+      },
     },
   },
   plugins: [],
