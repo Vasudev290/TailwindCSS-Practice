@@ -10,7 +10,7 @@ const PricingSec = () => {
         </p>
         <p className="text-2xl">Featured PLans are here</p>
       </div>
-      <div className="grid grid-cols-3 gap-4 mt-4 mx-auto">
+      <div className="grid md:grid-cols-3 grid-cols-1 gap-4 mt-4 mx-32 md:mx-10">
         <div className="relative bg-gray-200 w-80 mt-4 rounded-2xl hover:shadow-2xl text-center">
           <h1 className="font-bold text-5xl">&#8377;1999</h1>
           <h2 className="text-gray-500 mb-3 font-bold">Basic</h2>
